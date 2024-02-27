@@ -19,10 +19,9 @@ def rs(x,y):
 for k in sites.keys():
     distances[k] = {}
     for a in sites.keys():
-        if a!=k:
-            distances[k]
-[a] = rs(sites[k], sites[a])
-print(distances)
+        if a != k:
+            distances[k][a] = rs(sites[k], sites[a])
+    print(distances[k])
 
 
 
