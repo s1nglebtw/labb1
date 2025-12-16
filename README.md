@@ -313,9 +313,11 @@
    3. Результаты показываются на экране и сохраняются для возможного экспорта
    4. Пользователь может экспортировать результаты в Word или Excel
 ### Список источников:
-    1. guizero документация PyPi: pypi.org/project/guizero
-    2. python docx документация PyPi: pypi.org/project/python-docx
-    3. python openyxl документация PyPi: pypi.org/project/openpyxl
+[guizero документация PyPi](pypi.org/project/guizero)
+
+[python docx документация PyPi](pypi.org/project/python-docx)
+
+[python openyxl документация PyPi](pypi.org/project/openpyxl)
 # lab_7
 ## Задача 1
 **Результат**
