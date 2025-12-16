@@ -374,6 +374,11 @@
    2. Создаётся объект соответствующего класса
    3. Выполняется расчёт по единой формуле (количество = площадь/площадь_единицы)
    4. Результаты можно сохранить в разных форматах
+### Список источников:
+    1. guizero документация PyPi: pypi.org/project/guizero
+    2. python docx документация PyPi: pypi.org/project/python-docx
+    3. python openyxl документация PyPi: pypi.org/project/openpyxl
+    4. python ABC abstract base classes: docs.python.org/3/library/abc.html
 # lab_8
 ## Задача 1
 **Результат**
